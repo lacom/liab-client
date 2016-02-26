@@ -8,7 +8,10 @@
     "type": "git",
     "url": "git+https://github.com/lacom/liab-client.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.5.1",
+    "request": "^2.69.0"
+  },
   "main": "index.js",
   "preferGlobal": false,
   "files": [
