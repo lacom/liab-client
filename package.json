@@ -1,0 +1,29 @@
+{
+  "name": "liab-client",
+  "description": "A Node.js API wrapper for Lightning In A Bot.",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "Dylan La Com <dylan.lacom@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lacom/liab-client.git"
+  },
+  "dependencies": {},
+  "main": "index.js",
+  "preferGlobal": false,
+  "files": [
+    "CHANGELOG.md",
+    "index.js",
+    "LICENSE",
+    "lib/",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/lacom/liab-client/issues"
+  },
+  "homepage": "https://github.com/lacom/liab-client#readme",
+  "devDependencies": {}
+}
