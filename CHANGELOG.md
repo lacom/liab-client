@@ -1,6 +1,8 @@
 Change Log
 
 - - -
+## v0.1.2 (5/13/16)
+- Fix module exports error
 ## v0.1.1 (4/29/16)
 - Added nodes and stores facets, added addNode method
 ## v0.0.1 (2/25/16)
