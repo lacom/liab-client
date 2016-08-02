@@ -1,6 +1,8 @@
 Change Log
 
 - - -
+## v0.1.4 (8/2/16)
+- Added sendOutgoingFile to bots facet
 ## v0.1.3 (5/13/16)
 - Various bug fixes
 ## v0.1.2 (5/13/16)
