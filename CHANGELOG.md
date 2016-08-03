@@ -1,7 +1,9 @@
 Change Log
 
 - - -
-$$ v0.1.5 (8/2/16)
+## v0.1.6 (8/3/16)
+- fixed dynamic routing type
+## v0.1.5 (8/2/16)
 - added json option to makeAPICall, switched outgoingfile route to json
 ## v0.1.4 (8/2/16)
 - Added sendOutgoingFile to bots facet
