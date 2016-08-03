@@ -1,6 +1,8 @@
 Change Log
 
 - - -
+$$ v0.1.5 (8/2/16)
+- added json option to makeAPICall, switched outgoingfile route to json
 ## v0.1.4 (8/2/16)
 - Added sendOutgoingFile to bots facet
 ## v0.1.3 (5/13/16)
