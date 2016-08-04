@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "lodash": "^4.5.1",
-    "request": "^2.69.0"
+    "request": "^2.74.0"
   },
   "main": "./index",
   "preferGlobal": false,
