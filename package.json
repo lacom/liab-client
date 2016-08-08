@@ -1,7 +1,7 @@
 {
   "name": "liab-client",
   "description": "A Node.js API wrapper for Lightning In A Bot.",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "license": "MIT",
   "author": "Dylan La Com <dylan.lacom@gmail.com>",
   "repository": {

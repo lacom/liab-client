@@ -1,6 +1,8 @@
 Change Log
 
 - - -
+$$ v0.1.7 (8/8/16)
+- added type checking of res.body to avoid doulbe json.Parse()
 ## v0.1.6 (8/3/16)
 - fixed dynamic routing type
 ## v0.1.5 (8/2/16)
