@@ -1,7 +1,9 @@
 Change Log
 
 - - -
-$$ v0.1.7 (8/8/16)
+## v0.1.8 (8/8/16)
+-- token can only be passed via constructor
+## v0.1.7 (8/8/16)
 - added type checking of res.body to avoid doulbe json.Parse()
 ## v0.1.6 (8/3/16)
 - fixed dynamic routing type
