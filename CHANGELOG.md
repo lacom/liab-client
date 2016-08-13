@@ -1,6 +1,8 @@
 Change Log
 
 - - -
+## v0.1.9 (8/12/16)
+-- added stores.create method
 ## v0.1.8 (8/8/16)
 -- token can only be passed via constructor
 ## v0.1.7 (8/8/16)
