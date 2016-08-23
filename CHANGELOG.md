@@ -1,6 +1,8 @@
 Change Log
 
 - - -
+## v0.1.11 (8/18/16)
+-- new facet to update bot status and status details
 ## v0.1.10 (8/18/16)
 -- new facted incoming message route
 ## v0.1.9 (8/12/16)
