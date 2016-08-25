@@ -1,6 +1,8 @@
 Change Log
 
 - - -
+## v0.1.13 (8/25/16)
+-- fix request callback parsing for 401 responses
 ## v0.1.12 (8/24/16)
 -- added bot.removeClient route
 ## v0.1.11 (8/18/16)
