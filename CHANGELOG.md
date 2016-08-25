@@ -1,10 +1,12 @@
 Change Log
 
 - - -
+## v0.1.12 (8/24/16)
+-- added bot.removeClient route
 ## v0.1.11 (8/18/16)
 -- new facet to update bot status and status details
 ## v0.1.10 (8/18/16)
--- new facted incoming message route
+-- new facet incoming message route
 ## v0.1.9 (8/12/16)
 -- added stores.create method
 ## v0.1.8 (8/8/16)
